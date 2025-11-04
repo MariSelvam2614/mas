@@ -1,0 +1,12 @@
+
+1. Create a basic intelligent which should be able to perceive its environment and take simple actions based on predefined rules. (basic)
+2. Implement a search algorithm (e.g., A*, BFS, DFS) for a path-finding problem. Use a grid-based environment where the agent finds the shortest path from a start to a goal position. (search)
+3. Solve a simple CSP such as the Sudoku puzzle using backtracking and visualize the steps taken by the algorithm. (sudoku)
+4. Create a simulation where two agents communicate to achieve a common goal. Implement a simple protocol for agent communication and demonstrate the interaction. (sim)
+5. Develop a basic multi-agent system where agents must coordinate to complete a task (e.g., moving boxes to specific locations). Implement simple coordination strategies and observe their effectiveness. (bmas)
+6. Implement a Q-learning algorithm for a simple grid-world environment. Train an agent to reach a goal state while avoiding obstacles and maximizing rewards. (qlalg)
+7. Implement a partial order planning algorithm for a given set of actions and goals. Demonstrate the execution of the plan in a simulated environment. (popa)
+8. Implement a basic machine learning model (e.g., decision tree) to classify agent actions based on historical data. Use a small dataset and evaluate the model's performance. (bml)
+9. Create an agent-based chatbot using a simple rule-based system. The chatbot should interact with users and provide responses based on predefined rules. (chat)
+10. Implement an agent that navigates a virtual environment (e.g., a maze) and collects items. Use a simple graphical interface to visualize the agent's actions. (maze)
+
